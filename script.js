@@ -27,4 +27,4 @@ const btn = document.querySelector('[data-form-btn]');
 };
 
 //arrow functions o funciones anonimas
-btn.addEventListener('click', createTask);   //addeventlistener  se usa para arrastrar un texto a otra pagina, un click.
+btn.addEventListener('click', createTask);   
